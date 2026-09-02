@@ -2,7 +2,7 @@
 
 ## 🚀 Data Engineer | Databricks Certified Data Engineer Associate
 
-Sou Engenheiro de Dados com experiência no desenvolvimento de pipelines de dados escaláveis, processamento distribuído e arquiteturas Lakehouse. Tenho atuação em projetos envolvendo ingestão, transformação, modelagem e disponibilização de dados para análises e tomada de decisão.
+Sou Engenheiro de Dados com experiência no desenvolvimento de pipelines de dados escaláveis, processamento distribuído e arquiteturas Datalake. Tenho atuação em projetos envolvendo ingestão, transformação, modelagem e disponibilização de dados para análises e tomada de decisão.
 
 ---
 
